@@ -1,0 +1,19 @@
+.rsvp {
+  text-align: center;
+  margin: 20px;
+  padding-top: 30px;
+}
+
+.rsvp button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.rsvp button:hover {
+  background-color: #45a049;
+}
